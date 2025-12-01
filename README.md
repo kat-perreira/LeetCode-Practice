@@ -4,6 +4,6 @@ A place to save my favorite solutions to leet code problems. All solutions done 
 
 
 ## Easy
-### Two Sum
-### PalindromeNumber
-### RomanToInteger
+Two Sum
+PalindromeNumber
+RomanToInteger
